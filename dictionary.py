@@ -1,5 +1,5 @@
-operator=input("enter the operator;+,-,*,/,%")
 a=int(input("enter first number:"))
+operator=input("enter the operator;+,-,*,/,%")
 b=int(input("enter second number:"))
 def sum(a,b):
     if (operator=="+"):
