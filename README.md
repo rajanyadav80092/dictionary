@@ -1,1 +1,1 @@
-# my project for calculator
+# my project for rock paper scissor
